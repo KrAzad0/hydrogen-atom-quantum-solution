@@ -1,0 +1,35 @@
+# Scientific Computing
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+scikit-learn>=0.24.0
+
+# Visualization
+mayavi>=4.7.0  # 3D visualization
+plotly>=5.0.0  # Interactive plots
+
+# Jupyter and Notebooks
+jupyter>=1.0.0
+ipython>=7.0.0
+nbconvert>=6.0.0
+
+# Testing
+pytest>=6.2.0
+pytest-cov>=2.12.0
+
+# Code Quality
+black>=21.5b0
+flake8>=3.9.0
+pylint>=2.9.0
+isort>=5.9.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0
+
+# Optional: Performance
+numba>=0.53.0  # JIT compilation
+mpmath>=1.1.0  # Arbitrary precision arithmetic
+
+# Version
+python>=3.8
